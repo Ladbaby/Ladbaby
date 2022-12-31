@@ -33,6 +33,11 @@
 | ------------- | ------------- |
 
 <!--START_SECTION:waka-->
+
+```text
+Other        26 hrs 31 mins  █████████████████████░░░░   83.77 %
+```
+
 <!--END_SECTION:waka-->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ladbaby&label=Profile%20views&color=0e75b6&style=flat" alt="ladbaby" /> </p>
