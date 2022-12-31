@@ -37,18 +37,6 @@
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-62%20Thousand%20lines%20of%20code-blue)
 
-**🐱 My GitHub Data** 
-
-> 🏆 229 Contributions in the Year 2022
- > 
-> 📦 109.5 kB Used in GitHub's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 11 Public Repositories 
- > 
-> 🔑 1 Private Repository 
- > 
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -78,7 +66,7 @@ Windows                  31 hrs 37 mins      ███████████�
 ```
 
 
- Last Updated on 31/12/2022 05:16:15 UTC
+ Last Updated on 31/12/2022 05:20:55 UTC
 <!--END_SECTION:waka-->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ladbaby&label=Profile%20views&color=0e75b6&style=flat" alt="ladbaby" /> </p>
