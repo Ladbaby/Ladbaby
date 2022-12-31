@@ -35,6 +35,8 @@
 <!--START_SECTION:waka-->
 
 ```text
+Total Time: 31 hrs 37 mins
+
 Other        26 hrs 31 mins  █████████████████████░░░░   83.77 %
 ```
 
