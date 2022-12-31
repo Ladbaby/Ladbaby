@@ -32,4 +32,7 @@
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ladbaby&show_icons=true&include_all_commits=true&hide_border=true" alt="Ladbaby's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ladbaby&layout=compact&hide_border=true" /></a> |
 | ------------- | ------------- |
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ladbaby&label=Profile%20views&color=0e75b6&style=flat" alt="ladbaby" /> </p>
