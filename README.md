@@ -33,7 +33,7 @@
 | ------------- | ------------- |
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C127%20hrs%2018%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C127%20hrs%2057%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.4%20million%20lines%20of%20code-blue)
 
@@ -41,19 +41,19 @@
 
 ```text
 💬 Programming Languages: 
-Markdown                 2 hrs 5 mins        ███████████████████████░░   93.42 % 
-Assembly                 4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
-XML                      4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.01 % 
+Markdown                 2 hrs 44 mins       ████████████████████████░   94.89 % 
+Assembly                 4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.77 % 
+XML                      4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.34 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 14 mins       █████████████████████████   100.00 % 
+VS Code                  2 hrs 53 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  2 hrs 14 mins       █████████████████████████   100.00 % 
+Windows                  2 hrs 53 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 08/10/2023 00:34:45 UTC
+ Last Updated on 09/10/2023 00:32:28 UTC
 <!--END_SECTION:waka-->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ladbaby&label=Profile%20views&color=0e75b6&style=flat" alt="ladbaby" /> </p>
