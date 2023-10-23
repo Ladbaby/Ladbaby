@@ -2,7 +2,7 @@
 
 🔬 A CS student from South China University of Technology, who loves to learn new stuff and play with applications.
 
-💬 Reach out to me via [email](mailto:firefly1390265970@gmail.com) if you'd like to talk:)
+💬 Reach out to me via [email](mailto:Ladbabyms@outlook.com) if you'd like to talk:)
 
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="20" height="20"/></code>
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="20" height="20"/></code>
