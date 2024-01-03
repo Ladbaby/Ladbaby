@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🔬 A CS student loves to learn new stuff and play with applications.
+🔬 A CS student loves learning new stuff.
 
 💬 Reach out to me via [email](mailto:4zmyslr68@mozmail.com) if you'd like to talk:)
 
