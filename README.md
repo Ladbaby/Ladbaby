@@ -33,7 +33,7 @@
 | ------------- | ------------- |
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C320%20hrs%2034%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C321%20hrs%2027%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-14.8%20million%20lines%20of%20code-blue)
 
@@ -41,17 +41,18 @@
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 53 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  43 mins             ████████████████████░░░░░   81.34 % 
+Obsidian                 9 mins              █████░░░░░░░░░░░░░░░░░░░░   18.66 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  53 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 16/02/2024 00:32:16 UTC
+ Last Updated on 17/02/2024 00:32:34 UTC
 <!--END_SECTION:waka-->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ladbaby&label=Profile%20views&color=0e75b6&style=flat" alt="ladbaby" /> </p>
