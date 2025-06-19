@@ -2,7 +2,7 @@
 
 🔬 A CS student loves learning new stuff.
 
-💬 Reach out to me via [email](mailto:4zmyslr68@mozmail.com) if you'd like to talk:)
+💬 Reach out to me via [email](mailto:Ladbabyms@outlook.com) if you'd like to talk:)
 
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="20" height="20"/></code>
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="20" height="20"/></code>
