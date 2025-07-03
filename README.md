@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🔬 A CS student loves learning new stuff.
+🔬 A CS PhD loves learning new stuff.
 
 💬 Reach out to me via [email](mailto:Ladbabyms@outlook.com) if you'd like to talk:)
 
