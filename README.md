@@ -33,7 +33,7 @@
 | ------------- | ------------- |
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C100%20hrs%2015%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C100%20hrs%2018%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-17.86%20million%20lines%20of%20code-blue?style=flat)
 
@@ -41,22 +41,22 @@
 
 ```text
 💬 Programming Languages: 
-Python                   3 hrs 49 mins       ██████████░░░░░░░░░░░░░░░   40.92 % 
-Markdown                 2 hrs 6 mins        ██████░░░░░░░░░░░░░░░░░░░   22.54 % 
-TeX                      1 hr 18 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.04 % 
-JSON                     1 hr 1 min          ███░░░░░░░░░░░░░░░░░░░░░░   11.00 % 
-Other                    16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
+Python                   3 hrs 9 mins        ██████████░░░░░░░░░░░░░░░   38.05 % 
+Markdown                 1 hr 47 mins        █████░░░░░░░░░░░░░░░░░░░░   21.46 % 
+TeX                      1 hr 18 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.80 % 
+JSON                     57 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.61 % 
+Other                    16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.31 % 
 
 🔥 Editors: 
-VS Code                  9 hrs 21 mins       █████████████████████████   100.00 % 
+VS Code                  8 hrs 18 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-WSL                      5 hrs 42 mins       ███████████████░░░░░░░░░░   60.98 % 
-Windows                  3 hrs 38 mins       ██████████░░░░░░░░░░░░░░░   39.02 % 
+WSL                      5 hrs 16 mins       ████████████████░░░░░░░░░   63.38 % 
+Windows                  3 hrs 2 mins        █████████░░░░░░░░░░░░░░░░   36.62 % 
 ```
 
 
- Last Updated on 16/03/2026 01:26:25 UTC
+ Last Updated on 17/03/2026 01:17:53 UTC
 <!--END_SECTION:waka-->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ladbaby&label=Profile%20views&color=0e75b6&style=flat" alt="ladbaby" /> </p>
