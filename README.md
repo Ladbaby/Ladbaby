@@ -33,7 +33,7 @@
 | ------------- | ------------- |
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C119%20hrs%2020%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C121%20hrs%2038%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-18.67%20million%20lines%20of%20code-blue?style=flat)
 
@@ -41,23 +41,23 @@
 
 ```text
 💬 Programming Languages: 
-Python                   5 hrs 51 mins       ████████████░░░░░░░░░░░░░   46.70 % 
-Markdown                 5 hrs 47 mins       ████████████░░░░░░░░░░░░░   46.15 % 
-Bash                     47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
-JSON                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
+Python                   6 hrs 8 mins        █████████████░░░░░░░░░░░░   53.27 % 
+Markdown                 4 hrs 29 mins       ██████████░░░░░░░░░░░░░░░   38.93 % 
+Bash                     46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.78 % 
+JSON                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
 Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-VS Code                  12 hrs 17 mins      ████████████████████████░   97.91 % 
-Obsidian                 15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.09 % 
+VS Code                  11 hrs 15 mins      ████████████████████████░   97.72 % 
+Obsidian                 15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.28 % 
 
 💻 Operating System: 
-Windows                  6 hrs 33 mins       █████████████░░░░░░░░░░░░   52.22 % 
-WSL                      6 hrs               ████████████░░░░░░░░░░░░░   47.78 % 
+WSL                      6 hrs 24 mins       ██████████████░░░░░░░░░░░   55.67 % 
+Windows                  5 hrs 6 mins        ███████████░░░░░░░░░░░░░░   44.33 % 
 ```
 
 
- Last Updated on 31/03/2026 01:27:23 UTC
+ Last Updated on 01/04/2026 01:34:15 UTC
 <!--END_SECTION:waka-->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ladbaby&label=Profile%20views&color=0e75b6&style=flat" alt="ladbaby" /> </p>
