@@ -33,7 +33,7 @@
 | ------------- | ------------- |
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C142%20hrs%2028%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C145%20hrs%2015%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.70%20million%20lines%20of%20code-blue?style=flat)
 
@@ -41,23 +41,23 @@
 
 ```text
 💬 Programming Languages: 
-Python                   11 hrs 9 mins       ██████████░░░░░░░░░░░░░░░   41.32 % 
-Markdown                 8 hrs 29 mins       ████████░░░░░░░░░░░░░░░░░   31.41 % 
-Bash                     5 hrs 23 mins       █████░░░░░░░░░░░░░░░░░░░░   19.96 % 
-JSON                     33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.05 % 
-YAML                     31 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.94 % 
+Python                   9 hrs 30 mins       █████████░░░░░░░░░░░░░░░░   36.64 % 
+Markdown                 8 hrs 12 mins       ████████░░░░░░░░░░░░░░░░░   31.64 % 
+Bash                     4 hrs 50 mins       █████░░░░░░░░░░░░░░░░░░░░   18.62 % 
+TOML                     1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 % 
+Ren'Py                   39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.54 % 
 
 🔥 Editors: 
-VS Code                  27 hrs 1 min        █████████████████████████   100.00 % 
+VS Code                  25 hrs 57 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-WSL                      19 hrs 47 mins      ██████████████████░░░░░░░   73.27 % 
-Windows                  7 hrs 2 mins        ███████░░░░░░░░░░░░░░░░░░   26.06 % 
-Linux                    10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
+WSL                      18 hrs 45 mins      ██████████████████░░░░░░░   72.29 % 
+Windows                  7 hrs               ███████░░░░░░░░░░░░░░░░░░   27.01 % 
+Linux                    10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
 ```
 
 
- Last Updated on 06/04/2026 01:33:30 UTC
+ Last Updated on 07/04/2026 01:32:04 UTC
 <!--END_SECTION:waka-->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ladbaby&label=Profile%20views&color=0e75b6&style=flat" alt="ladbaby" /> </p>
