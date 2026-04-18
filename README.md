@@ -37,28 +37,8 @@
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.71%20million%20lines%20of%20code-blue?style=flat)
 
-📊 **This Week I Spent My Time On** 
 
-```text
-💬 Programming Languages: 
-Markdown                 3 hrs 49 mins       ████████████████████░░░░░   78.27 % 
-JSON                     35 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.01 % 
-Other                    11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 % 
-Python                   10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
-Bash                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.78 % 
-
-🔥 Editors: 
-VS Code                  4 hrs 43 mins       ████████████████████████░   96.51 % 
-Obsidian                 10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 % 
-
-💻 Operating System: 
-Windows                  4 hrs 10 mins       █████████████████████░░░░   85.33 % 
-WSL                      38 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.06 % 
-Linux                    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
-```
-
-
- Last Updated on 17/04/2026 01:37:53 UTC
+ Last Updated on 18/04/2026 01:30:23 UTC
 <!--END_SECTION:waka-->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ladbaby&label=Profile%20views&color=0e75b6&style=flat" alt="ladbaby" /> </p>
