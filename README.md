@@ -41,23 +41,22 @@
 
 ```text
 💬 Programming Languages: 
-Markdown                 2 hrs 46 mins       ██████████████████████░░░   89.23 % 
-Python                   15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.53 % 
-YAML                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.01 % 
-SSH Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+Markdown                 1 hr 36 mins        █████████████████████░░░░   85.24 % 
+Python                   12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.22 % 
+YAML                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
+SSH Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 6 mins        █████████████████████████   100.00 % 
+VS Code                  1 hr 52 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  2 hrs 40 mins       ██████████████████████░░░   86.30 % 
-WSL                      20 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.16 % 
-Linux                    4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.54 % 
+Windows                  1 hr 31 mins        ████████████████████░░░░░   81.25 % 
+WSL                      16 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.55 % 
+Linux                    4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 % 
 ```
 
 
- Last Updated on 21/04/2026 01:37:03 UTC
+ Last Updated on 22/04/2026 01:35:56 UTC
 <!--END_SECTION:waka-->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ladbaby&label=Profile%20views&color=0e75b6&style=flat" alt="ladbaby" /> </p>
