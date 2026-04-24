@@ -41,21 +41,20 @@
 
 ```text
 💬 Programming Languages: 
-Markdown                 1 hr 30 mins        █████████████████████░░░░   84.63 % 
-Python                   12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.86 % 
-YAML                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 % 
+Markdown                 1 hr 24 mins        █████████████████████░░░░   83.83 % 
+Python                   12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.47 % 
+YAML                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
 
 🔥 Editors: 
-VS Code                  1 hr 46 mins        █████████████████████████   100.00 % 
+VS Code                  1 hr 41 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  1 hr 25 mins        ████████████████████░░░░░   80.19 % 
-WSL                      16 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.37 % 
-Linux                    4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 % 
+Windows                  1 hr 24 mins        █████████████████████░░░░   83.83 % 
+WSL                      16 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.17 % 
 ```
 
 
- Last Updated on 23/04/2026 01:41:32 UTC
+ Last Updated on 24/04/2026 01:40:18 UTC
 <!--END_SECTION:waka-->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ladbaby&label=Profile%20views&color=0e75b6&style=flat" alt="ladbaby" /> </p>
