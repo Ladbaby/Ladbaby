@@ -41,19 +41,17 @@
 
 ```text
 💬 Programming Languages: 
-Markdown                 45 mins             ███████████████████████░░   92.39 % 
-YAML                     3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.61 % 
+Markdown                 30 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  49 mins             █████████████████████████   100.00 % 
+VS Code                  30 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  45 mins             ███████████████████████░░   92.39 % 
-WSL                      3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.61 % 
+Windows                  30 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 25/04/2026 01:33:45 UTC
+ Last Updated on 26/04/2026 01:53:52 UTC
 <!--END_SECTION:waka-->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ladbaby&label=Profile%20views&color=0e75b6&style=flat" alt="ladbaby" /> </p>
