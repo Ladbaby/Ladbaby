@@ -33,10 +33,32 @@
 | ------------- | ------------- |
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C310%20hrs%2054%20mins-blue?style=flat)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.74%20million%20lines%20of%20code-blue?style=flat)
 
+📊 **This Week I Spent My Time On** 
 
- Last Updated on 29/05/2026 02:18:08 UTC
+```text
+💬 Programming Languages: 
+Python                   17 hrs 33 mins      ████████████░░░░░░░░░░░░░   48.13 % 
+Markdown                 10 hrs 32 mins      ███████░░░░░░░░░░░░░░░░░░   28.90 % 
+TeX                      3 hrs 30 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.61 % 
+Ren'Py                   2 hrs 27 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.73 % 
+Other                    50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
+
+🔥 Editors: 
+Claude Code              20 hrs 18 mins      ██████████████░░░░░░░░░░░   55.67 % 
+VS Code                  10 hrs 9 mins       ███████░░░░░░░░░░░░░░░░░░   27.85 % 
+Obsidian                 6 hrs               ████░░░░░░░░░░░░░░░░░░░░░   16.47 % 
+
+💻 Operating System: 
+WSL                      28 hrs              ███████████████████░░░░░░   76.75 % 
+Windows                  8 hrs 28 mins       ██████░░░░░░░░░░░░░░░░░░░   23.25 % 
+```
+
+
+ Last Updated on 30/05/2026 02:12:43 UTC
 <!--END_SECTION:waka-->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ladbaby&label=Profile%20views&color=0e75b6&style=flat" alt="ladbaby" /> </p>
