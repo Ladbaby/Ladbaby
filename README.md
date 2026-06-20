@@ -41,24 +41,24 @@
 
 ```text
 💬 Programming Languages: 
-Markdown                 6 hrs 28 mins       ████████░░░░░░░░░░░░░░░░░   31.99 % 
-Python                   5 hrs 38 mins       ███████░░░░░░░░░░░░░░░░░░   27.87 % 
-TeX                      2 hrs 11 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.86 % 
-Dart                     1 hr 27 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.17 % 
-Bash                     1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
+Markdown                 6 hrs 11 mins       ████████░░░░░░░░░░░░░░░░░   32.04 % 
+Python                   5 hrs 1 min         ██████░░░░░░░░░░░░░░░░░░░   25.98 % 
+TeX                      2 hrs 11 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.35 % 
+Dart                     1 hr 27 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.50 % 
+Bash                     1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.50 % 
 
 🔥 Editors: 
-VS Code                  15 hrs 8 mins       ███████████████████░░░░░░   74.84 % 
-Claude Code              2 hrs 53 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
-Obsidian                 2 hrs 11 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.86 % 
+VS Code                  14 hrs 14 mins      ██████████████████░░░░░░░   73.69 % 
+Claude Code              2 hrs 53 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.95 % 
+Obsidian                 2 hrs 11 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.36 % 
 
 💻 Operating System: 
-Windows                  10 hrs 25 mins      █████████████░░░░░░░░░░░░   51.53 % 
-WSL                      9 hrs 48 mins       ████████████░░░░░░░░░░░░░   48.47 % 
+WSL                      9 hrs 48 mins       █████████████░░░░░░░░░░░░   50.70 % 
+Windows                  9 hrs 31 mins       ████████████░░░░░░░░░░░░░   49.30 % 
 ```
 
 
- Last Updated on 19/06/2026 04:05:59 UTC
+ Last Updated on 20/06/2026 02:27:52 UTC
 <!--END_SECTION:waka-->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ladbaby&label=Profile%20views&color=0e75b6&style=flat" alt="ladbaby" /> </p>
