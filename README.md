@@ -33,31 +33,31 @@
 | ------------- | ------------- |
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C459%20hrs%204%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C464%20hrs%2051%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.18%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-20.37%20million%20lines%20of%20code-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Python                   14 hrs 11 mins      ████████░░░░░░░░░░░░░░░░░   31.46 % 
-TeX                      5 hrs 54 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.08 % 
-Go                       4 hrs 58 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.01 % 
-Markdown                 3 hrs 51 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.54 % 
-TypeScript               3 hrs 45 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
+Python                   9 hrs 10 mins       ██████░░░░░░░░░░░░░░░░░░░   22.74 % 
+TeX                      5 hrs 54 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.61 % 
+Go                       5 hrs 15 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.04 % 
+Markdown                 3 hrs 50 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.51 % 
+JavaScript               3 hrs 43 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.23 % 
 
 🔥 Editors: 
-VS Code                  35 hrs 29 mins      ████████████████████░░░░░   78.66 % 
-Claude Code              9 hrs 37 mins       █████░░░░░░░░░░░░░░░░░░░░   21.34 % 
+VS Code                  37 hrs 12 mins      ███████████████████████░░   92.16 % 
+Claude Code              3 hrs 9 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.84 % 
 
 💻 Operating System: 
-Windows                  29 hrs 51 mins      █████████████████░░░░░░░░   66.17 % 
-WSL                      15 hrs 15 mins      ████████░░░░░░░░░░░░░░░░░   33.83 % 
+Windows                  24 hrs 45 mins      ███████████████░░░░░░░░░░   61.32 % 
+WSL                      15 hrs 36 mins      ██████████░░░░░░░░░░░░░░░   38.68 % 
 ```
 
 
- Last Updated on 12/07/2026 01:50:06 UTC
+ Last Updated on 13/07/2026 01:54:33 UTC
 <!--END_SECTION:waka-->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ladbaby&label=Profile%20views&color=0e75b6&style=flat" alt="ladbaby" /> </p>
