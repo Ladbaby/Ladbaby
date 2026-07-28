@@ -33,7 +33,9 @@
 | ------------- | ------------- |
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C566%20hrs%2057%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C298%20hrs%2046%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-243%20hrs%2023%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.47%20million%20lines%20of%20code-blue?style=flat)
 
@@ -41,23 +43,43 @@
 
 ```text
 💬 Programming Languages: 
-TypeScript               18 hrs 3 mins       ████████░░░░░░░░░░░░░░░░░   33.78 % 
-Markdown                 10 hrs              █████░░░░░░░░░░░░░░░░░░░░   18.72 % 
-Python                   5 hrs 50 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.93 % 
-Dart                     4 hrs 48 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.00 % 
-JavaScript               3 hrs 52 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.26 % 
+TypeScript               12 hrs 9 mins       ██████░░░░░░░░░░░░░░░░░░░   22.92 % 
+Markdown                 9 hrs 8 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.22 % 
+Python                   8 hrs 48 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.58 % 
+Dart                     4 hrs 48 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.07 % 
+JavaScript               3 hrs 55 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.39 % 
 
 🔥 Editors: 
-VS Code                  50 hrs 55 mins      ████████████████████████░   95.25 % 
-Claude Code              2 hrs 32 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.75 % 
+VS Code                  52 hrs 38 mins      █████████████████████████   99.16 % 
+Claude Code              26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
 
 💻 Operating System: 
-Windows                  47 hrs 4 mins       ██████████████████████░░░   88.04 % 
-WSL                      6 hrs 23 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.96 % 
+Windows                  43 hrs 23 mins      ████████████████████░░░░░   81.74 % 
+WSL                      9 hrs 41 mins       █████░░░░░░░░░░░░░░░░░░░░   18.26 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 29 hrs 53 mins (56.31%)
+
+✍️ 29,453 lines written by AI, 5,351 lines written by hand (84.63% AI-written)
+
+🔤 361,864,738 Input Tokens, 1,579,978 Output Tokens
+
+💵 $0.00 Estimated AI Cost This Week
+
+🧠 123 AI Sessions, 232 AI Prompts
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 84.63% of written lines came from AI
+📝 Concise Prompter — average 404 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🚀 High AI Trust — 18.58% of changed lines were hand-edited
 ```
 
 
- Last Updated on 27/07/2026 02:07:31 UTC
+ Last Updated on 28/07/2026 01:42:26 UTC
 <!--END_SECTION:waka-->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ladbaby&label=Profile%20views&color=0e75b6&style=flat" alt="ladbaby" /> </p>
