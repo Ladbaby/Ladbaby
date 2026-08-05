@@ -33,53 +33,53 @@
 | ------------- | ------------- |
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C344%20hrs%2045%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C346%20hrs%2038%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-269%20hrs%209%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-270%20hrs%2026%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.55%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.60%20million%20lines%20of%20code-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Markdown                 11 hrs 59 mins      ██████░░░░░░░░░░░░░░░░░░░   24.64 % 
-Dart                     10 hrs 59 mins      ██████░░░░░░░░░░░░░░░░░░░   22.60 % 
-TypeScript               7 hrs 6 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.63 % 
-Python                   4 hrs 15 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.74 % 
-JSON                     3 hrs 50 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.90 % 
+Dart                     11 hrs 12 mins      ███████░░░░░░░░░░░░░░░░░░   26.54 % 
+Markdown                 10 hrs 51 mins      ██████░░░░░░░░░░░░░░░░░░░   25.71 % 
+TypeScript               4 hrs 19 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.23 % 
+JSON                     3 hrs 18 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.83 % 
+Python                   2 hrs 11 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.20 % 
 
 🔥 Editors: 
-VS Code                  46 hrs 14 mins      ████████████████████████░   95.06 % 
-Claude Code              2 hrs 24 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.94 % 
+VS Code                  39 hrs 50 mins      ████████████████████████░   94.32 % 
+Claude Code              2 hrs 24 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.68 % 
 
 💻 Operating System: 
-Windows                  42 hrs 59 mins      ██████████████████████░░░   88.39 % 
-WSL                      5 hrs 38 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.61 % 
+Windows                  39 hrs 5 mins       ███████████████████████░░   92.54 % 
+WSL                      3 hrs 9 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.46 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 26 hrs 31 mins (54.54%)
+⏱ AI Coding Time: 23 hrs 46 mins (56.28%)
 
-✍️ 27,772 lines written by AI, 46,338 lines written by hand (37.47% AI-written)
+✍️ 24,939 lines written by AI, 44,473 lines written by hand (35.93% AI-written)
 
-🔤 236,611,935 Input Tokens, 888,558 Output Tokens
+🔤 227,291,357 Input Tokens, 836,788 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 56 AI Sessions, 168 AI Prompts
+🧠 51 AI Sessions, 155 AI Prompts
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 37.47% of written lines came from AI
-📄 Detailed Prompter — average 979 characters per prompt
+⚖️ Balanced with AI — 35.93% of written lines came from AI
+📄 Detailed Prompter — average 1,035 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🔍 Hands-On Reviewer — 69.25% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 70.92% of changed lines were hand-edited
 ```
 
 
- Last Updated on 04/08/2026 01:35:39 UTC
+ Last Updated on 05/08/2026 01:43:18 UTC
 <!--END_SECTION:waka-->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ladbaby&label=Profile%20views&color=0e75b6&style=flat" alt="ladbaby" /> </p>
